@@ -1,0 +1,884 @@
+[
+  {
+    "visitor_id": "dd35b9b7",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "HubSpot CRM",
+      "Marketing": "Marketo",
+      "Website": "Webflow",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Brian Mitchell",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Sarah Mitchell"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/product",
+      "/demo-request",
+      "/case-studies",
+      "/integration"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "Canada"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 5,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from Austin, Canada.\n\nBrowsing behavior includes the following pages:\n/product, /demo-request, /case-studies, /integration\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 5, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "05a55e9a",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "Zoho CRM",
+      "Marketing": "Mailchimp",
+      "Website": "WordPress",
+      "Analytics": "Mixpanel"
+    },
+    "leadership": {
+      "CEO": "Michael Carter",
+      "VP Sales": "Brian Mitchell",
+      "Head of Marketing": "Rachel Adams",
+      "RevOps": "Ryan Hall"
+    },
+    "business_signals": [
+      "Growth in product offerings",
+      "Company recently hiring sales roles"
+    ],
+    "behavior_signals": [
+      "/pricing",
+      "/integration",
+      "/ai-sales-agent",
+      "/case-studies"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "Canada"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 6,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from New York, Canada.\n\nBrowsing behavior includes the following pages:\n/pricing, /integration, /ai-sales-agent, /case-studies\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 6, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "b6bb7158",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Jonathan Reed",
+      "VP Sales": "Emily Parker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Sarah Mitchell"
+    },
+    "business_signals": [
+      "Expansion into new regional markets",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/blog",
+      "/docs",
+      "/product",
+      "/contact"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "UK"
+    },
+    "persona": "Technical Buyer",
+    "intent_score": 1,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from New York, UK.\n\nBrowsing behavior includes the following pages:\n/blog, /docs, /product, /contact\n\nThe visitor is likely a Technical Buyer. Behavioral signals indicate an intent score of 1, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "b8caa4ca",
+    "company": "Summit Realty Group",
+    "domain": "summitrealty.com",
+    "industry": "Real Estate",
+    "company_size": "350 employees",
+    "headquarters": "Denver, USA",
+    "founding_year": 2008,
+    "business_description": "Summit Realty Group offers residential and commercial real estate brokerage services while leveraging modern digital property search tools.",
+    "technology_stack": {
+      "CRM": "Zoho CRM",
+      "Marketing": "Mailchimp",
+      "Website": "WordPress",
+      "Analytics": "Mixpanel"
+    },
+    "leadership": {
+      "CEO": "Michael Carter",
+      "VP Sales": "Brian Mitchell",
+      "Head of Marketing": "Kevin Zhang",
+      "RevOps": "Nathan Scott"
+    },
+    "business_signals": [
+      "Growth in product offerings",
+      "Partnership announcements"
+    ],
+    "behavior_signals": [
+      "/product",
+      "/docs",
+      "/ai-sales-agent",
+      "/pricing",
+      "/"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "UK"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 5,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from Austin, UK.\n\nBrowsing behavior includes the following pages:\n/product, /docs, /ai-sales-agent, /pricing, /\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 5, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "d299fc0b",
+    "company": "Redfin",
+    "domain": "redfin.com",
+    "industry": "Real Estate Technology",
+    "company_size": "4000 employees",
+    "headquarters": "Seattle, USA",
+    "founding_year": 2004,
+    "business_description": "Redfin is a technology-powered real estate brokerage that combines online home search tools with real estate agent services.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Laura Bennett",
+      "Head of Marketing": "Kevin Zhang",
+      "RevOps": "Chris Thompson"
+    },
+    "business_signals": [
+      "Recent funding announcement",
+      "Partnership announcements"
+    ],
+    "behavior_signals": [
+      "/ai-sales-agent",
+      "/case-studies",
+      "/docs"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "USA"
+    },
+    "persona": "Technical Buyer",
+    "intent_score": 3,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from Seattle, USA.\n\nBrowsing behavior includes the following pages:\n/ai-sales-agent, /case-studies, /docs\n\nThe visitor is likely a Technical Buyer. Behavioral signals indicate an intent score of 3, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "83fbdb86",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "HubSpot",
+      "Website": "WordPress",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Jonathan Reed",
+      "VP Sales": "Kevin Walker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Sarah Mitchell"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/docs",
+      "/",
+      "/product",
+      "/demo-request",
+      "/integration"
+    ],
+    "location": {
+      "city": "Chicago",
+      "country": "Canada"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 4,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from Chicago, Canada.\n\nBrowsing behavior includes the following pages:\n/docs, /, /product, /demo-request, /integration\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 4, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "0ab37d5b",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Jonathan Reed",
+      "VP Sales": "Kevin Walker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Jessica Moore"
+    },
+    "business_signals": [
+      "Growth in product offerings",
+      "Partnership announcements"
+    ],
+    "behavior_signals": [
+      "/integration",
+      "/demo-request"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "Canada"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 3,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from Boston, Canada.\n\nBrowsing behavior includes the following pages:\n/integration, /demo-request\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 3, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "f17325ee",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "HubSpot CRM",
+      "Marketing": "Marketo",
+      "Website": "Webflow",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Robert Williams",
+      "VP Sales": "Laura Bennett",
+      "Head of Marketing": "Olivia Turner",
+      "RevOps": "Nathan Scott"
+    },
+    "business_signals": [
+      "Recent funding announcement",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/product",
+      "/case-studies",
+      "/blog"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "UK"
+    },
+    "persona": "Researcher",
+    "intent_score": 1,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from New York, UK.\n\nBrowsing behavior includes the following pages:\n/product, /case-studies, /blog\n\nThe visitor is likely a Researcher. Behavioral signals indicate an intent score of 1, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "598802af",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "HubSpot",
+      "Website": "WordPress",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Michael Carter",
+      "VP Sales": "Kevin Walker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Chris Thompson"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Recent funding announcement"
+    ],
+    "behavior_signals": [
+      "/contact",
+      "/case-studies",
+      "/product",
+      "/"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "USA"
+    },
+    "persona": "General Visitor",
+    "intent_score": 2,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from Austin, USA.\n\nBrowsing behavior includes the following pages:\n/contact, /case-studies, /product, /\n\nThe visitor is likely a General Visitor. Behavioral signals indicate an intent score of 2, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "660fa644",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "Zoho CRM",
+      "Marketing": "Mailchimp",
+      "Website": "WordPress",
+      "Analytics": "Mixpanel"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Laura Bennett",
+      "Head of Marketing": "Kevin Zhang",
+      "RevOps": "Nathan Scott"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/blog"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "UK"
+    },
+    "persona": "Researcher",
+    "intent_score": 1,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from Austin, UK.\n\nBrowsing behavior includes the following pages:\n/blog\n\nThe visitor is likely a Researcher. Behavioral signals indicate an intent score of 1, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "2ad0f83b",
+    "company": "Rocket Mortgage",
+    "domain": "rocketmortgage.com",
+    "industry": "Mortgage Finance",
+    "company_size": "5000 employees",
+    "headquarters": "Detroit, USA",
+    "founding_year": 1985,
+    "business_description": "Rocket Mortgage is one of the largest digital mortgage lenders in the United States, providing fully online home loan experiences.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Robert Williams",
+      "VP Sales": "Emily Parker",
+      "Head of Marketing": "Olivia Turner",
+      "RevOps": "Chris Thompson"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Company recently hiring sales roles"
+    ],
+    "behavior_signals": [
+      "/demo-request",
+      "/pricing"
+    ],
+    "location": {
+      "city": "Boston",
+      "country": "UK"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 7,
+    "intent_stage": "Evaluation",
+    "ai_summary": "Visitor activity detected from Boston, UK.\n\nBrowsing behavior includes the following pages:\n/demo-request, /pricing\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 7, placing them in the Evaluation stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Prioritize account for immediate outbound outreach",
+      "Research VP Sales or Revenue Operations leaders",
+      "Send personalized case studies relevant to the industry"
+    ]
+  },
+  {
+    "visitor_id": "7ef0ac96",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "HubSpot",
+      "Website": "WordPress",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Michael Carter",
+      "VP Sales": "Amanda Cole",
+      "Head of Marketing": "Kevin Zhang",
+      "RevOps": "Jessica Moore"
+    },
+    "business_signals": [
+      "Expansion into new regional markets",
+      "Recent funding announcement"
+    ],
+    "behavior_signals": [
+      "/product",
+      "/integration",
+      "/case-studies",
+      "/pricing",
+      "/docs"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 4,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from New York, USA.\n\nBrowsing behavior includes the following pages:\n/product, /integration, /case-studies, /pricing, /docs\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 4, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "f1f5be8e",
+    "company": "Rocket Mortgage",
+    "domain": "rocketmortgage.com",
+    "industry": "Mortgage Finance",
+    "company_size": "5000 employees",
+    "headquarters": "Detroit, USA",
+    "founding_year": 1985,
+    "business_description": "Rocket Mortgage is one of the largest digital mortgage lenders in the United States, providing fully online home loan experiences.",
+    "technology_stack": {
+      "CRM": "Zoho CRM",
+      "Marketing": "Mailchimp",
+      "Website": "WordPress",
+      "Analytics": "Mixpanel"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Laura Bennett",
+      "Head of Marketing": "Rachel Adams",
+      "RevOps": "Sarah Mitchell"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Company recently hiring sales roles"
+    ],
+    "behavior_signals": [
+      "/blog",
+      "/demo-request",
+      "/case-studies",
+      "/"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 5,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from San Francisco, USA.\n\nBrowsing behavior includes the following pages:\n/blog, /demo-request, /case-studies, /\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 5, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "139d9a89",
+    "company": "Redfin",
+    "domain": "redfin.com",
+    "industry": "Real Estate Technology",
+    "company_size": "4000 employees",
+    "headquarters": "Seattle, USA",
+    "founding_year": 2004,
+    "business_description": "Redfin is a technology-powered real estate brokerage that combines online home search tools with real estate agent services.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "HubSpot",
+      "Website": "WordPress",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Jonathan Reed",
+      "VP Sales": "Amanda Cole",
+      "Head of Marketing": "Rachel Adams",
+      "RevOps": "Jessica Moore"
+    },
+    "business_signals": [
+      "Recent funding announcement",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/case-studies"
+    ],
+    "location": {
+      "city": "Austin",
+      "country": "Canada"
+    },
+    "persona": "General Visitor",
+    "intent_score": 2,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from Austin, Canada.\n\nBrowsing behavior includes the following pages:\n/case-studies\n\nThe visitor is likely a General Visitor. Behavioral signals indicate an intent score of 2, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "faa057e4",
+    "company": "Summit Realty Group",
+    "domain": "summitrealty.com",
+    "industry": "Real Estate",
+    "company_size": "350 employees",
+    "headquarters": "Denver, USA",
+    "founding_year": 2008,
+    "business_description": "Summit Realty Group offers residential and commercial real estate brokerage services while leveraging modern digital property search tools.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Michael Carter",
+      "VP Sales": "Brian Mitchell",
+      "Head of Marketing": "Kevin Zhang",
+      "RevOps": "Chris Thompson"
+    },
+    "business_signals": [
+      "Expansion into new regional markets",
+      "Partnership announcements"
+    ],
+    "behavior_signals": [
+      "/contact",
+      "/ai-sales-agent"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "UK"
+    },
+    "persona": "General Visitor",
+    "intent_score": 3,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from New York, UK.\n\nBrowsing behavior includes the following pages:\n/contact, /ai-sales-agent\n\nThe visitor is likely a General Visitor. Behavioral signals indicate an intent score of 3, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "63e12f13",
+    "company": "BrightPath Lending",
+    "domain": "brightpathlending.com",
+    "industry": "Mortgage Lending",
+    "company_size": "200 employees",
+    "headquarters": "Chicago, USA",
+    "founding_year": 2012,
+    "business_description": "BrightPath Lending provides digital mortgage lending solutions that streamline the home financing process for buyers across the United States.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Robert Williams",
+      "VP Sales": "Laura Bennett",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Jessica Moore"
+    },
+    "business_signals": [
+      "Recent funding announcement",
+      "Company recently hiring sales roles"
+    ],
+    "behavior_signals": [
+      "/pricing",
+      "/",
+      "/demo-request"
+    ],
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 7,
+    "intent_stage": "Evaluation",
+    "ai_summary": "Visitor activity detected from New York, USA.\n\nBrowsing behavior includes the following pages:\n/pricing, /, /demo-request\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 7, placing them in the Evaluation stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Prioritize account for immediate outbound outreach",
+      "Research VP Sales or Revenue Operations leaders",
+      "Send personalized case studies relevant to the industry"
+    ]
+  },
+  {
+    "visitor_id": "1780f09e",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Robert Williams",
+      "VP Sales": "Emily Parker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Ryan Hall"
+    },
+    "business_signals": [
+      "Company recently hiring sales roles",
+      "Expansion into new regional markets"
+    ],
+    "behavior_signals": [
+      "/docs"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "UK"
+    },
+    "persona": "Technical Buyer",
+    "intent_score": 1,
+    "intent_stage": "Research",
+    "ai_summary": "Visitor activity detected from San Francisco, UK.\n\nBrowsing behavior includes the following pages:\n/docs\n\nThe visitor is likely a Technical Buyer. Behavioral signals indicate an intent score of 1, placing them in the Research stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add account to nurture marketing campaign",
+      "Share educational blog content",
+      "Track future engagement signals"
+    ]
+  },
+  {
+    "visitor_id": "f43e8050",
+    "company": "Summit Realty Group",
+    "domain": "summitrealty.com",
+    "industry": "Real Estate",
+    "company_size": "350 employees",
+    "headquarters": "Denver, USA",
+    "founding_year": 2008,
+    "business_description": "Summit Realty Group offers residential and commercial real estate brokerage services while leveraging modern digital property search tools.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "HubSpot",
+      "Website": "WordPress",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Kevin Walker",
+      "Head of Marketing": "Rachel Adams",
+      "RevOps": "Chris Thompson"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Company recently hiring sales roles"
+    ],
+    "behavior_signals": [
+      "/demo-request",
+      "/blog"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "USA"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 4,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from Seattle, USA.\n\nBrowsing behavior includes the following pages:\n/demo-request, /blog\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 4, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "34f40546",
+    "company": "Compass Real Estate",
+    "domain": "compass.com",
+    "industry": "Real Estate Brokerage",
+    "company_size": "3000 employees",
+    "headquarters": "New York, USA",
+    "founding_year": 2012,
+    "business_description": "Compass is a modern real estate platform that provides technology tools for real estate agents, buyers, and sellers.",
+    "technology_stack": {
+      "CRM": "HubSpot CRM",
+      "Marketing": "Marketo",
+      "Website": "Webflow",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Daniel Thompson",
+      "VP Sales": "Kevin Walker",
+      "Head of Marketing": "David Lee",
+      "RevOps": "Ryan Hall"
+    },
+    "business_signals": [
+      "Partnership announcements",
+      "Growth in product offerings"
+    ],
+    "behavior_signals": [
+      "/pricing",
+      "/ai-sales-agent"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "country": "UK"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 6,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from San Francisco, UK.\n\nBrowsing behavior includes the following pages:\n/pricing, /ai-sales-agent\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 6, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  },
+  {
+    "visitor_id": "fe7cdba8",
+    "company": "Summit Realty Group",
+    "domain": "summitrealty.com",
+    "industry": "Real Estate",
+    "company_size": "350 employees",
+    "headquarters": "Denver, USA",
+    "founding_year": 2008,
+    "business_description": "Summit Realty Group offers residential and commercial real estate brokerage services while leveraging modern digital property search tools.",
+    "technology_stack": {
+      "CRM": "Salesforce",
+      "Marketing": "Pardot",
+      "Website": "Drupal",
+      "Analytics": "Google Analytics"
+    },
+    "leadership": {
+      "CEO": "Sophia Martinez",
+      "VP Sales": "Brian Mitchell",
+      "Head of Marketing": "Daniel Chen",
+      "RevOps": "Sarah Mitchell"
+    },
+    "business_signals": [
+      "Growth in product offerings",
+      "Partnership announcements"
+    ],
+    "behavior_signals": [
+      "/pricing",
+      "/contact",
+      "/ai-sales-agent",
+      "/blog",
+      "/integration"
+    ],
+    "location": {
+      "city": "Seattle",
+      "country": "USA"
+    },
+    "persona": "Sales Leader",
+    "intent_score": 6,
+    "intent_stage": "Consideration",
+    "ai_summary": "Visitor activity detected from Seattle, USA.\n\nBrowsing behavior includes the following pages:\n/pricing, /contact, /ai-sales-agent, /blog, /integration\n\nThe visitor is likely a Sales Leader. Behavioral signals indicate an intent score of 6, placing them in the Consideration stage of the buying journey.\n\nThis account may represent a potential opportunity for outreach.",
+    "recommended_sales_actions": [
+      "Add company to targeted outbound campaign",
+      "Share product comparison or solution guides",
+      "Monitor further visitor activity"
+    ]
+  }
+]
